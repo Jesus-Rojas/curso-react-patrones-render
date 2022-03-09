@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/curso-react-patrones-render/static/css/main.51f0aa61.chunk.css",
+    "main.js": "/curso-react-patrones-render/static/js/main.6dcf27a2.chunk.js",
+    "main.js.map": "/curso-react-patrones-render/static/js/main.6dcf27a2.chunk.js.map",
+    "runtime-main.js": "/curso-react-patrones-render/static/js/runtime-main.3207b7e6.js",
+    "runtime-main.js.map": "/curso-react-patrones-render/static/js/runtime-main.3207b7e6.js.map",
+    "static/js/2.970d1c2f.chunk.js": "/curso-react-patrones-render/static/js/2.970d1c2f.chunk.js",
+    "static/js/2.970d1c2f.chunk.js.map": "/curso-react-patrones-render/static/js/2.970d1c2f.chunk.js.map",
+    "index.html": "/curso-react-patrones-render/index.html",
+    "static/css/main.51f0aa61.chunk.css.map": "/curso-react-patrones-render/static/css/main.51f0aa61.chunk.css.map",
+    "static/js/2.970d1c2f.chunk.js.LICENSE.txt": "/curso-react-patrones-render/static/js/2.970d1c2f.chunk.js.LICENSE.txt",
+    "static/media/check.fa4fb594.svg": "/curso-react-patrones-render/static/media/check.fa4fb594.svg",
+    "static/media/delete.331149da.svg": "/curso-react-patrones-render/static/media/delete.331149da.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3207b7e6.js",
+    "static/js/2.970d1c2f.chunk.js",
+    "static/css/main.51f0aa61.chunk.css",
+    "static/js/main.6dcf27a2.chunk.js"
+  ]
+}
